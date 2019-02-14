@@ -4,8 +4,8 @@
 | 模式       | 包位置   |
 | --------  | -----:  |
 | 观察者     | observer.pattern |
-| 单例       |      |
-| 工厂       |      |
+| 单例       | singleton.pattern     |
+| 工厂       | factory.pattern     |
 
 使用技术
 - Java 8 
