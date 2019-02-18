@@ -6,6 +6,9 @@
 | 观察者     | observer.pattern |
 | 单例       | singleton.pattern     |
 | 工厂       | factory.pattern     |
+| 抽象工厂       | abstractfactory.pattern     |
+| 适配器       | adapter.pattern     |
+|责任链       |chainofresponsibility.pattern   |
 
 使用技术
 - Java 8 
