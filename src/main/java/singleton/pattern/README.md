@@ -15,12 +15,12 @@ Singleton Pattern提供了一种在应用程序上下文中仅实例化一个实
 > * 6.**枚举单例模式**`强烈推荐使用`
 
 ##表格与指定的类
-|模式|类|
-|-------|---|
-| 饿汉模式                  | EagerSingleton        |
-| 静态代码块模式             | StaticBlockSingleton  |
-| 懒汉模式                  | LazySingleton         |
-| 线程安全单例模式            | ThreadSafeSingleton   |
-| Bill Pugh Singleton模式   | BillPughSingleton     |
-| 枚举模式                   | EnumSingleton         |
+| 模式                    | 类                   |
+| :---------------------- | -------------------- |
+| 饿汉模式                | EagerSingleton       |
+| 静态代码块模式          | StaticBlockSingleton |
+| 懒汉模式                | LazySingleton        |
+| 线程安全单例模式        | ThreadSafeSingleton  |
+| Bill Pugh Singleton模式 | BillPughSingleton    |
+| 枚举模式                | EnumSingleton        |
 
